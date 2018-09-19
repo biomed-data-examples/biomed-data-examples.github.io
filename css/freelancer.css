@@ -43,6 +43,10 @@ hr.star-dark:after {
   font-size: 2em;
 }
 
+.strategic-plans hr.star-dark:after {
+  background-color: #e2e2e2 !important;
+}
+
 hr.star-light {
   border-color: #fff;
 }
