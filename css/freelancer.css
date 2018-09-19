@@ -396,6 +396,7 @@ a:focus, a:hover, a:active {
 .repo-row div:first-child {
   width: 30%;
   margin: 0 auto 1em;
+  min-width: 250px;
 }
 
 .repo-row div:last-child {
