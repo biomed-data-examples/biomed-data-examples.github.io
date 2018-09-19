@@ -116,6 +116,7 @@ section h2 {
 
 #mainNav .navbar-brand {
   color: #fff;
+  font-size: 0.75rem;
 }
 
 #mainNav .navbar-nav {
@@ -140,8 +141,8 @@ section h2 {
 }
 
 #mainNav .navbar-toggler {
-  font-size: 80%;
-  padding: 0.8rem;
+  font-size: 0.75rem;
+  padding: 0.5rem;
 }
 
 @media (min-width: 992px) {
@@ -178,7 +179,7 @@ section h2 {
 }
 
 header.masthead {
-  padding-top: calc(8rvh + 72px);
+  padding-top: calc(8vh + 72px);
   padding-bottom: 8vh;
 }
 
@@ -392,6 +393,8 @@ a:focus, a:hover, a:active {
   border-bottom: solid 1px #00408521;
   margin-bottom: 2.5em;
   padding-bottom: 1.5em;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .repo-row div:first-child {
